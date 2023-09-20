@@ -1,0 +1,5 @@
+ Warehouse_num int,
+    Type text,
+    Product_name text,
+    Product_desc text,
+    PRIMAY KEY (Warehouse_num, Type)
