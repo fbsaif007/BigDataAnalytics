@@ -1,9 +1,8 @@
-﻿Warehouse_num ,Type,Product_name,Product_desc
-1,home decor,flower vas,A large flower vas
-2,home decor,show piec,Figure of  an Elephant
-3,misc,charger,iphone charger
-4,misc,cover,iphone cover
-5,home decor,flower vas,A small flower vas
-6,home decor,show piec,Figure of  a Tiger
-7,misc,charger,android charger
-8,misc,cover,c type charger
+﻿warehouse_num,sku,product_name,product_description
+123,asd,flower vas,A large flower vas
+234,fds,show piece,Figure of  an Elephant
+345,few,charger,iphone charger
+456,wer,cover,iphone cover
+567,iue,ring,A small flower vas
+678,vfc,pin,Figure of  a Tiger
+789,jhg,phone,android charger
