@@ -1,0 +1,36 @@
+pwd - current working directory
+ls - files in the current directory
+ls .la - list of files in the current directory
+cd.. -moves back one step
+cd seasonal - moves into the seasonal folder
+cd home/seasonal - moves into the seasonal folder 
+cd / - will move to the top of the directory
+cd ~ - will take me to home folder
+sudo apt update/upgrade - will update or upgrade
+sudo apt install (software name) - will update all software as required
+conda - has all the packages
+conda install -c conda-forge (name of the package) - find packages there 
+conda install (name of the package)
+conda update conda
+pip install (name) - will install packages
+clear - clear historical data
+jupyter notebook - will start the jupyter notebook
+code - will start up vscode
+
+git clone (link to repo)
+git commit -m "this is for git commitment"
+git push
+
+Cassandra
+open vscode
+rund the cassandra node .sh to create the server
+then run the cassandra nodes 
+run the cqlsh.sh ( that will start up the cql server) 
+
+
+bash runs the command 
+cat views the file in docker for cassandra
+
+
+token
+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
